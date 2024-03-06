@@ -1,13 +1,13 @@
 <H3> Name : Anto Richard. S</H3>
-<H3>Register No.212221240005</H3>
+<H3> Register No : 212221240005</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:06-03-2024</H3>
+<H3>DATE : 06-03-2024</H3>
 
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
 
-    To create a bayesian Network for the given dataset in Python.
+To create a bayesian Network for the given dataset in Python.
     
 ## Algorithm:
 
@@ -198,6 +198,8 @@ plt.show()
 ### Variable Bands:
 
 ![img1](https://github.com/anto-richard/Ex1-AAI/assets/93427534/db2e4f87-1536-477e-b4c9-09cd07e9e739)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![img2](https://github.com/anto-richard/Ex1-AAI/assets/93427534/ab0bafa4-78f0-492b-82ae-59606c9fc1a4)
 
